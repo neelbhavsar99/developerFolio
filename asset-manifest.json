@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.825a7b15.chunk.css",
-    "main.js": "/static/js/main.1edd2202.chunk.js",
-    "main.js.map": "/static/js/main.1edd2202.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5bfb7d2e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5bfb7d2e.js.map",
-    "static/js/2.56c106d6.chunk.js": "/static/js/2.56c106d6.chunk.js",
-    "static/js/2.56c106d6.chunk.js.map": "/static/js/2.56c106d6.chunk.js.map",
+    "main.js": "/static/js/main.41605abd.chunk.js",
+    "main.js.map": "/static/js/main.41605abd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c759436.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c759436.js.map",
+    "static/js/2.20186a1a.chunk.js": "/static/js/2.20186a1a.chunk.js",
+    "static/js/2.20186a1a.chunk.js.map": "/static/js/2.20186a1a.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
-    "static/js/3.d24cc8f0.chunk.js": "/static/js/3.d24cc8f0.chunk.js",
-    "static/js/3.d24cc8f0.chunk.js.map": "/static/js/3.d24cc8f0.chunk.js.map",
+    "static/js/3.7493340e.chunk.js": "/static/js/3.7493340e.chunk.js",
+    "static/js/3.7493340e.chunk.js.map": "/static/js/3.7493340e.chunk.js.map",
     "static/css/4.d7ceb645.chunk.css": "/static/css/4.d7ceb645.chunk.css",
-    "static/js/4.0513155a.chunk.js": "/static/js/4.0513155a.chunk.js",
-    "static/js/4.0513155a.chunk.js.map": "/static/js/4.0513155a.chunk.js.map",
+    "static/js/4.7e77a6e9.chunk.js": "/static/js/4.7e77a6e9.chunk.js",
+    "static/js/4.7e77a6e9.chunk.js.map": "/static/js/4.7e77a6e9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.28cb3dbc8b7caa3d436d161bf02e9d96.js": "/precache-manifest.28cb3dbc8b7caa3d436d161bf02e9d96.js",
+    "precache-manifest.23e208fda74b9867424908e055df612c.js": "/precache-manifest.23e208fda74b9867424908e055df612c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
     "static/css/main.825a7b15.chunk.css.map": "/static/css/main.825a7b15.chunk.css.map",
-    "static/js/2.56c106d6.chunk.js.LICENSE.txt": "/static/js/2.56c106d6.chunk.js.LICENSE.txt",
+    "static/js/2.20186a1a.chunk.js.LICENSE.txt": "/static/js/2.20186a1a.chunk.js.LICENSE.txt",
     "static/media/AI-Associate-for-Product-Managers.png": "/static/media/AI-Associate-for-Product-Managers.6af2d6a0.png",
+    "static/media/AWS-Certified-Cloud-Practitioner.png": "/static/media/AWS-Certified-Cloud-Practitioner.25ede0a6.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/GWCaseComp.png": "/static/media/GWCaseComp.7478873c.png",
     "static/media/NEELB_NVIDIA_CERT.png": "/static/media/NEELB_NVIDIA_CERT.4e35d3fd.png",
@@ -36,9 +37,9 @@
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5bfb7d2e.js",
-    "static/js/2.56c106d6.chunk.js",
+    "static/js/runtime-main.7c759436.js",
+    "static/js/2.20186a1a.chunk.js",
     "static/css/main.825a7b15.chunk.css",
-    "static/js/main.1edd2202.chunk.js"
+    "static/js/main.41605abd.chunk.js"
   ]
 }

@@ -1,47 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f25458faeb8ce59c1d828ad643d3340",
+    "revision": "7ad6c883f3e63c81d7f5b3321efbdabc",
     "url": "/index.html"
   },
   {
-    "revision": "c1172b64fd74851b522c",
+    "revision": "860d262c95924d7b4e1f",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "32a0ff72ef5f880e5370",
+    "revision": "a837d200c4102d0b1489",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "29b9c8e6a73f7611c2a0",
+    "revision": "286da78cd1b957e212ab",
     "url": "/static/css/main.825a7b15.chunk.css"
   },
   {
-    "revision": "d7cc18ead3fb0224f022",
-    "url": "/static/js/2.56c106d6.chunk.js"
+    "revision": "4d5e34c7912e3b39fcf2",
+    "url": "/static/js/2.20186a1a.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.56c106d6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.20186a1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1172b64fd74851b522c",
-    "url": "/static/js/3.d24cc8f0.chunk.js"
+    "revision": "860d262c95924d7b4e1f",
+    "url": "/static/js/3.7493340e.chunk.js"
   },
   {
-    "revision": "32a0ff72ef5f880e5370",
-    "url": "/static/js/4.0513155a.chunk.js"
+    "revision": "a837d200c4102d0b1489",
+    "url": "/static/js/4.7e77a6e9.chunk.js"
   },
   {
-    "revision": "29b9c8e6a73f7611c2a0",
-    "url": "/static/js/main.1edd2202.chunk.js"
+    "revision": "286da78cd1b957e212ab",
+    "url": "/static/js/main.41605abd.chunk.js"
   },
   {
-    "revision": "91f6a724bef2d4553102",
-    "url": "/static/js/runtime-main.5bfb7d2e.js"
+    "revision": "e899fc74965372422961",
+    "url": "/static/js/runtime-main.7c759436.js"
   },
   {
     "revision": "6af2d6a0b030f174474aa7528ebca7cd",
     "url": "/static/media/AI-Associate-for-Product-Managers.6af2d6a0.png"
+  },
+  {
+    "revision": "25ede0a68143e8c852fd634ce70c16b3",
+    "url": "/static/media/AWS-Certified-Cloud-Practitioner.25ede0a6.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
