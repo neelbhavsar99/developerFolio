@@ -251,7 +251,7 @@ const achievementSection = {
       subtitle:
         "Links to Certificate",
       image: require("./assets/images/certs/AWS-Certified-Cloud-Practitioner.png"),
-      imageAlt: "IBM AI Cert",
+      imageAlt: "Certification",
       footerLink: [
         {
           name: "AWS Cloud Practitioner Foundational",
