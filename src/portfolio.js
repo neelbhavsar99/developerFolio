@@ -1,4 +1,4 @@
-/* Change this file to get your personal Portfolio */
+
 
 // To change portfolio colors globally go to the  _globalColor.scss file
 
@@ -246,6 +246,19 @@ const achievementSection = {
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
+    {
+      title: "AWS Cloud Practitioner Foundational",
+      subtitle:
+        "Links to Certificate",
+      image: require("./assets/images/certs/AWS-Certified-Cloud-Practitioner.png"),
+      imageAlt: "IBM AI Cert",
+      footerLink: [
+        {
+          name: "AWS Cloud Practitioner Foundational",
+          url: "https://www.credly.com/badges/55f6b9d4-cd57-4d41-8b45-56640ccfac0d/public_url"
+        },
+      ]
+    },
     {
       title: "IBM AI Associate Learning Certification",
       subtitle:
