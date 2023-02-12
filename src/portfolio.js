@@ -22,12 +22,10 @@ const illustration = {
 const greeting = {
   username: "Neel Bhavsar",
   title: "Hello, I am Neel.",
-  subTitle:
-    "An aspiring Software Engineer at IBM. I have experience building backend algorithms, web applications with Django / ReactJS and some other cool libraries and frameworks as a full-stack Engineer."
-  ,
+  subTitle: "An aspiring Software Engineer at IBM. I have experience building backend algorithms, web applications with Django / ReactJS and some other cool libraries and frameworks as a full-stack Engineer.",
   resumeLink:
     "RESUME", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+  displayGreeting: false // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
@@ -239,7 +237,7 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Achievements And Certifications"),
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
@@ -382,7 +380,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Me"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   // number: "+92-0000000000",
