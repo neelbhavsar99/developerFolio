@@ -49,8 +49,8 @@ const skillsSection = {
   title: "What I do",
   subTitle: "Aspiring technology professional who likes to explore every tech stack",
   skills: [
-      "Participated in hackathons, competitions to continuosly learn the upcoming tools and frameworks.",
-     "Interested in Artificial Intelligence algorithms and product management as a techno-commercial candidate.",
+      "-> Participate in hackathons, competitions to continuosly learn the upcoming tools and frameworks.",
+     "-> Interested in Artificial Intelligence algorithms and product management as a techno-commercial candidate.",
     // emoji(
     //   "⚡ Integration of third party services such as AWS "
     // )
