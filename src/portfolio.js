@@ -22,9 +22,9 @@ const illustration = {
 const greeting = {
   username: "Neel Bhavsar",
   title: "Hello, I am Neel.",
-  subTitle: emoji(
-    "An aspiring Software Engineer at 👁🐝Ⓜ️ [IBM] . I have experience building backend algorithms, web applications with Django / ReactJS and some other cool libraries and frameworks as a full-stack Engineer 🚀."
-  ),
+  subTitle:
+    "An aspiring Software Engineer at IBM. I have experience building backend algorithms, web applications with Django / ReactJS and some other cool libraries and frameworks as a full-stack Engineer."
+  ,
   resumeLink:
     "RESUME", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -51,10 +51,8 @@ const skillsSection = {
   title: "What I do",
   subTitle: "Aspiring technology professional who likes to explore every tech stack",
   skills: [
-    emoji(
-      "⚡ Participate in hackathons, competitions to continuosly learn the upcoming tools and frameworks."
-    ),
-    emoji("⚡ Interested in Artificial Intelligence algorithms and product management as a techno-commercial candidate."),
+      "Participated in hackathons, competitions to continuosly learn the upcoming tools and frameworks.",
+     "Interested in Artificial Intelligence algorithms and product management as a techno-commercial candidate.",
     // emoji(
     //   "⚡ Integration of third party services such as AWS "
     // )
