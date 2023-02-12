@@ -25,7 +25,7 @@ const greeting = {
   subTitle: "An aspiring Software Engineer at IBM. I have experience building backend algorithms, web applications with Django / ReactJS and some other cool libraries and frameworks as a full-stack Engineer.",
   resumeLink:
     "RESUME", // Set to empty to hide the button
-  displayGreeting: false // Set false to hide this section, defaults to true
+  displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
