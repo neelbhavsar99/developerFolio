@@ -26,7 +26,6 @@ export default function Greeting() {
               >
                 {" "}
                 {greeting.title}{" "}
-                {" "}
               </h1>
               <p
                 className={
