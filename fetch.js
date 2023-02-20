@@ -72,6 +72,7 @@ if (USE_GITHUB_DATA === "true") {
 
     console.log(`statusCode: ${res.statusCode}`);
     if (res.statusCode !== 200) {
+      console.log("print" + res.statusCode)
       throw new Error(ERR.requestFailed);
     }
 
