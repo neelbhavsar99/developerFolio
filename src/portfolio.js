@@ -325,27 +325,27 @@ const achievementSection = {
 
 // Blogs Section
 
-// const blogSection = {
-//   title: "Blogs",
-//   subtitle:
-//     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-//   displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
-//   blogs: [
-//     {
-//       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-//       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-//       description:
-//         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-//     },
+ const blogSection = {
+   title: "Blogs",
+   subtitle:
+     "I like to write and share my experiences with what I have learnt.",
+   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
+   blogs: [
+     {
+       url: "https://medium.com/@neelbhavsar102/writing-an-effective-resume-for-software-engineers-e4e3663533a5",
+       title: "",
+       description:
+         "A simple articule on resume writing for Software Engineering related roles."
+     }
 //     {
 //       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
 //       title: "Why REACT is The Best?",
 //       description:
 //         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
 //     }
-//   ],
-//   display: true // Set false to hide this section, defaults to true
-// };
+   ],
+   display: true // Set false to hide this section, defaults to true
+ };
 
 // Talks Sections
 
