@@ -408,7 +408,7 @@ export {
   openSource,
   bigProjects,
   achievementSection,
-  // blogSection,
+  blogSection,
   talkSection,
   podcastSection,
   contactInfo,
